@@ -5,7 +5,6 @@ D:\UIT\.NET\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplicati
 D:\UIT\.NET\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
 D:\UIT\.NET\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.Views.dll
 D:\UIT\.NET\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.Views.pdb
-D:\UIT\.NET\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
 D:\UIT\.NET\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
 D:\UIT\.NET\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
 D:\UIT\.NET\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
@@ -16,6 +15,7 @@ D:\UIT\.NET\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplicati
 D:\UIT\.NET\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorCoreGenerate.cache
 D:\UIT\.NET\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
 D:\UIT\.NET\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+D:\UIT\.NET\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Create.g.cshtml.cs
 D:\UIT\.NET\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
 D:\UIT\.NET\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
 D:\UIT\.NET\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
@@ -30,3 +30,4 @@ D:\UIT\.NET\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplicati
 D:\UIT\.NET\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
 D:\UIT\.NET\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
 D:\UIT\.NET\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CopyComplete
+D:\UIT\.NET\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
